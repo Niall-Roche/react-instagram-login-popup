@@ -1,3 +1,7 @@
+## Resoures
+https://medium.com/@enetoOlveda/open-a-popup-window-react-db81c8c180e5
+https://stackoverflow.com/questions/18625733/how-do-i-get-around-window-opener-cross-domain-security
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
